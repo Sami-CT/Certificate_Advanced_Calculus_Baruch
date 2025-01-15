@@ -1,5 +1,5 @@
 # Certificate_Advanced_Calculus_Baruch
-Bonds and Options scripts used for the final exam. Click for more details.
+Bonds and Options scripts used for the final exam:click for more details.
 Numerical Integration:
 Midpoint Rule
 Trapezoidal Rule
