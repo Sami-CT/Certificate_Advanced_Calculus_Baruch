@@ -1,7 +1,5 @@
 # Certificate_Advanced_Calculus_Baruch
-Scripts used for the final exam:
-
-Numerical Integration:
+Scripts used for the final exam: Numerical Integration:
 Midpoint Rule
 Trapezoidal Rule
 Simpson's Rule
